@@ -3,3 +3,5 @@ Be very careful when using this command because it will add all the changed file
 You can add individual files to the stging area by using git add. For example git add file1.js image.png index.php to add only "file1.js",
 
 "image.png" and "index.php" to the staging area and then you can create a commit with git commit -m "your commit message".
+
+Please read the instructions carefully before using this project
